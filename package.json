@@ -27,7 +27,7 @@
     "eslint-plugin-jsdoc": "^35.4.1",
     "eslint-plugin-prettier": "^3.4.0",
     "fs-extra": "^10.0.0",
-    "husky": "^7.0.0",
+    "husky": "^8.0.2",
     "jest": "^26.6.3",
     "lwc": "^2.2.5",
     "prettier": "^2.3.2",
